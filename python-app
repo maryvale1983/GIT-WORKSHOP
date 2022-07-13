@@ -1,2 +1,12 @@
+<<
+<<<<< HEAD
     a + inupt('enter a name')
 print(a)
+iyi aksamlar
+=======
+a + inupt('enter a name')
+print(a
+
+
+)
+>>>>>>> 0df3a1aec94683673df20db03905c697777a135f
